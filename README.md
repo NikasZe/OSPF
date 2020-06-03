@@ -1,2 +1,3 @@
 # TFTP-and-OSPF
-Įgyvendintas TFTP klientas 2 pratybu uzduočiai, įgyvendintas OSPF protokolas su Dijkstros algoritmo pagalba 3 pratybu užduociai
+Įgyvendintas OSPF protokolas su Dijkstros algoritmo pagalba 3 pratybu užduociai
+Nikodemas Žeruolis, Informatika, 2 kursas, 1 grupė
